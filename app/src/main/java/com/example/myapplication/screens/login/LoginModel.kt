@@ -1,6 +1,6 @@
-package com.example.agrilink.screens.login
+package com.example.myapplication.screens.login
 
-import com.example.agrilink.AgriLinkApplication
+import com.example.myapplication.app.AgriLinkApplication
 
 class LoginModel(private val app: AgriLinkApplication) {
 
